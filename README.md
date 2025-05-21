@@ -3,7 +3,8 @@
 🚀 **Innovative Tech Solutions from Mostaganem, Algeria**  
 TM71 is a creative digital agency building elegant, fast, and scalable **mobile and web applications**. We specialize in delivering modern experiences tailored for the Algerian market and beyond.
 
-![TM71 Cover](https://github.com/user-attachments/assets/7b10b00b-26f5-47e6-823c-7af6b5cef176) <!-- Optional: Replace with custom banner -->
+![TM71 Cover](https://github.com/user-attachments/assets/df80f4be-060d-4b79-b3f1-3681253263a5) <!-- Optional: Replace with custom banner -->
+
 
 ---
 
